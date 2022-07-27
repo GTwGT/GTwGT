@@ -16,6 +16,15 @@ Founder and Host
 
 Anthony Spiteri is a Senior Global Technologist, working in Product Strategy and the Office of the CTO at Veeam. With a focus on Veeam’s Cloud and Service Provider products and partners, he previously held architectural lead roles at some of Australia's leading Cloud providers. Since 2002, he has worked as a hosting and cloud professional with leading service providers in Australia, helping to push the boundaries of virtualisation and cloud. At Veeam, Spiteri is responsible for generating content, evangelism, collecting product feedback, and presenting at events. With a Master’s Degree in Network and System Administration (Distinction) from Charles Sturt, he can be found blogging on https://anthonyspiteri.net or on Twitter via @anthonyspiteri.
 
+## License
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
 <!---
 GTwGT/GTwGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
