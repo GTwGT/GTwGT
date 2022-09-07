@@ -38,10 +38,15 @@ Total Episode Links Posted: 410
 
 Anthony Spiteri is a Senior Global Technologist, working in Product Strategy and the Office of the CTO at Veeam. With a focus on Veeam’s Cloud and Service Provider products and partners, he previously held architectural lead roles at some of Australia's leading Cloud providers. Since 2002, he has worked as a hosting and cloud professional with leading service providers in Australia, helping to push the boundaries of virtualisation and cloud. At Veeam, Spiteri is responsible for generating content, evangelism, collecting product feedback, and presenting at events. With a Master’s Degree in Network and System Administration (Distinction) from Charles Sturt, he can be found blogging on https://anthonyspiteri.net or on Twitter via @anthonyspiteri.
 
-## Episode 1
-Session | Title | Speakers
+### Episode 1 - Zettagrid
+
+In this first episode, I talk to Nicki Pereira (CTO) of Zettagrid. Zettagrid are an Australian based Cloud Provider who have lead the way in the ANZ IaaS market for a decade now. Nicki and I chat about how Zettagrid came to be, and how technology platforms like VMware vCloud Director and Veeam where central in them innovating on core technologies and how that led to them leading the market on their way to APJ expansion.
+
+Platform | Title | Speakers
 ---|---|---
-Zettagrid | [A Light in the Darknet: Stopping Cyberthreats with SASE](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1651253265320001EgtW&videoId=6311698420112) | Nicki Perera, CTO
+YouTube | [A Light in the Darknet: Stopping Cyberthreats with SASE](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1651253265320001EgtW&videoId=6311698420112) | Nicki Perera, CTO
+AnchorFM | [AnchorFM](https://anchor.fm/gtwgt/episodes/Episode-1---Zettagrid-eft009/a-a2i4hmi) | Nicki Perera, CTO
+
 
 ## Episode 2
 Session | Title | Speakers
