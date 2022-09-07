@@ -8,7 +8,7 @@ Total Episode Links Posted: 410
 
 ## Episode Content
 
-* [Season 2020](#2020) (10)
+* [Season 2020](#season-2020) (10)
 * [Season 2021](#2021) (12)
 * [Season 2022](#2022) (14)
 
@@ -25,7 +25,7 @@ In this first episode, I talk to Nicki Pereira (CTO) of Zettagrid. Zettagrid are
 #### Guest - Nicki Pereria
 
 Platform | Link
----|---|---
+---|---
 YouTube | [YouTube](https://www.youtube.com/watch?v=YrlqS6N6N7s) 
 Spotify | [Spotify](https://open.spotify.com/episode/0XcASWZxsNtQZeQSla5CcW?si=_blDptoWQJClZm_q_SzPRg) 
 AnchorFM | [AnchorFM](https://anchor.fm/gtwgt/episodes/Episode-1---Zettagrid-eft009/a-a2i4hmi) 
